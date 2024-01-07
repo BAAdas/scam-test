@@ -1,2 +1,2 @@
 # scam-test
-adam@poczta.ibles.eu
+adam@poczta.test.ibles.eu
